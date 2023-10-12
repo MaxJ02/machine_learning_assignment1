@@ -1,0 +1,22 @@
+Förklara varför traditionell programmering inte lämpar sig väl för att efterlikna mänsklig intelligens samt varför
+maskininlärningsalgoritmer lämpar sig bättre, exempelvis när modellen ställs inför ett helt nytt scenario:
+
+Svar:
+
+Att traditionell programmering inte lämpar sig för att efterlikna mänsklig intelligens beror på flera olika faktorer:
+
+Främst beror det på att traditionell programmering innebär att man som utvecklare måste skapa exakta instruktioner
+för hur programmet ska bete sig i olika situationer. Detta är såklart inte möjligt att göra för alla potentiella situationer 
+som kan uppstå då världen är mer komplex än ettor och nollor. 
+
+Maskininlärning fokuserar istället på att träna modeller med olika typer av data och låter modellen själv upptäcka mönster
+och regler. Modellen anpassar sig själv och förbättras hela tiden genom att träna på olika exempel, vilket gör att
+maskininlärning är anpassningsbar för olika typer av situationer.
+
+Vidare är mänsklig intelligens ganska komplext och svår att efterlikna med en enkel uppsättning av regler. 
+
+Maskininlärning kan hantera denna komplexitet genom att lära sig från data och anpassa sig till förändringar men även till okända situationer.
+Modellen kan generalisera från sin träningsdata för att fatta beslut i nya scenarion.
+
+
+
